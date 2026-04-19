@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1444,
+    "questionText": "Fill in the blank: The chef decided to ___ the vegetables thinly.",
+    "options": {
+      "A": "versatile",
+      "B": "slice",
+      "C": "sprinkle",
+      "D": "combine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 1445,
+    "questionText": "Choose the correct preposition: She has been working at this company ___ 2018.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "in",
+      "D": "from"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 1446,
+    "questionText": "Identify the closest synonym for the word 'ubiquitous':",
+    "options": {
+      "A": "rare",
+      "B": "omnipresent",
+      "C": "expensive",
+      "D": "fragile"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 1447,
+    "questionText": "Select the correct conditional verb form: If I ___ known you were visiting, I would have baked a cake.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "had",
+      "D": "was"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 1448,
+    "questionText": "Which of the following is a grammatically correct sentence?",
+    "options": {
+      "A": "He don't like playing soccer on weekends.",
+      "B": "She can to speak three different languages.",
+      "C": "I has been to Paris twice this year.",
+      "D": "They are going to the market later today."
+    },
+    "correctAnswer": "D"
+  }
+]

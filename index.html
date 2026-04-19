@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vocab & Grammar Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/dexie@3.2.4/dist/dexie.js"></script>
+</head>
+<body>
+  <div class="app-container">
+    <header>
+      <h1>Vocab & Grammar Quiz</h1>
+      <div class="actions">
+        <button id="exportBtn">Export Progress</button>
+        <label for="importFile" class="import-label">Import Progress</label>
+        <input type="file" id="importFile" accept=".json" style="display:none;">
+      </div>
+    </header>
+
+    <main id="quiz-container">
+      <div id="loading">Initializing database...</div>
+      
+      <div id="quiz-content" class="hidden">
+        <h2 id="question-text"></h2>
+        <div id="options-container">
+           </div>
+        <div id="feedback" class="hidden"></div>
+        <button id="nextBtn" class="hidden" disabled>Next Question</button>
+      </div>
+
+      <div id="completion-message" class="hidden">
+        <h2>🎉 You've completed all available questions!</h2>
+        <p>Come back later or reset your progress.</p>
+        <button id="resetBtn">Reset Progress</button>
+      </div>
+    </main>
+  </div>
+  
+  <script src="db.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
