@@ -1,57 +1,35 @@
 [
   {
-    "id": 1444,
-    "questionText": "Fill in the blank: The chef decided to ___ the vegetables thinly.",
+    "id": 2001,
+    "questionText": "Choose the word whose underlined part is pronounced differently:",
     "options": {
-      "A": "versatile",
-      "B": "slice",
-      "C": "sprinkle",
-      "D": "combine"
-    },
-    "correctAnswer": "C"
-  },
-  {
-    "id": 1445,
-    "questionText": "Choose the correct preposition: She has been working at this company ___ 2018.",
-    "options": {
-      "A": "for",
-      "B": "since",
-      "C": "in",
-      "D": "from"
+      "A": "<u>h</u>istory",
+      "B": "<u>h</u>onesty",
+      "C": "<u>h</u>ouse",
+      "D": "<u>h</u>ospital"
     },
     "correctAnswer": "B"
   },
   {
-    "id": 1446,
-    "questionText": "Identify the closest synonym for the word 'ubiquitous':",
+    "id": 2002,
+    "questionText": "Choose the word whose underlined part is pronounced differently:",
     "options": {
-      "A": "rare",
-      "B": "omnipresent",
-      "C": "expensive",
-      "D": "fragile"
+      "A": "watch<u>ed</u>",
+      "B": "clean<u>ed</u>",
+      "C": "open<u>ed</u>",
+      "D": "play<u>ed</u>"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2003,
+    "questionText": "Choose the word whose underlined part is pronounced differently:",
+    "options": {
+      "A": "h<u>i</u>de",
+      "B": "p<u>i</u>ck",
+      "C": "sh<u>i</u>ne",
+      "D": "l<u>i</u>ke"
     },
     "correctAnswer": "B"
-  },
-  {
-    "id": 1447,
-    "questionText": "Select the correct conditional verb form: If I ___ known you were visiting, I would have baked a cake.",
-    "options": {
-      "A": "have",
-      "B": "has",
-      "C": "had",
-      "D": "was"
-    },
-    "correctAnswer": "C"
-  },
-  {
-    "id": 1448,
-    "questionText": "Which of the following is a grammatically correct sentence?",
-    "options": {
-      "A": "He don't like playing soccer on weekends.",
-      "B": "She can to speak three different languages.",
-      "C": "I has been to Paris twice this year.",
-      "D": "They are going to the market later today."
-    },
-    "correctAnswer": "D"
   }
 ]

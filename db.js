@@ -12,7 +12,7 @@ db.version(1).stores({
 
 // The current version of our data payload. 
 // Incrementing this in future updates will force the app to re-fetch questions.json.
-const DATA_VERSION = 1;
+const DATA_VERSION = 2;
 
 /**
  * Initializes the database content.

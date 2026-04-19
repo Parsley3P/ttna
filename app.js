@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     for (const [key, value] of Object.entries(question.options)) {
       const btn = document.createElement("button");
       btn.className = "option-btn";
-      btn.textContent = `${key}. ${value}`;
+      btn.innerHTML = `${key}. ${value}`;
       btn.dataset.key = key; 
       
       // Attach click event to handle the user's choice
